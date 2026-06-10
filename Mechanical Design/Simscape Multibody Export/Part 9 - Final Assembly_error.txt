@@ -1,0 +1,80 @@
+Constrained Instances: 'Part 18 - Square Servo Mount-1', 'pan head cross recess screw_iso-6'
+Constraint Name: Lock1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 18 - Square Servo Mount-1', 'pan head cross recess screw_iso-6'
+Constraint Name: Lock1
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 18 - Square Servo Mount-1', 'pan head cross recess screw_iso-6'
+Constraint Name: Lock1
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 08 - Long Servo Mounting Arm-1', 'SG90 - Micro Servo 9g - Tower Pro.5-4'
+Constraint Name: Lock2
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 08 - Long Servo Mounting Arm-1', 'SG90 - Micro Servo 9g - Tower Pro.5-4'
+Constraint Name: Lock2
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 08 - Long Servo Mounting Arm-1', 'SG90 - Micro Servo 9g - Tower Pro.5-4'
+Constraint Name: Lock2
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 24 - Central lever RHS-1', 'SG90 - Micro Servo 9g - Tower Pro.2-2'
+Constraint Name: Lock3
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 24 - Central lever RHS-1', 'SG90 - Micro Servo 9g - Tower Pro.2-2'
+Constraint Name: Lock3
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 24 - Central lever RHS-1', 'SG90 - Micro Servo 9g - Tower Pro.2-2'
+Constraint Name: Lock3
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'SG90 - Micro Servo 9g - Tower Pro.3-1', 'Part 13 - Cradle Base-1'
+Constraint Name: Lock4
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'SG90 - Micro Servo 9g - Tower Pro.3-1', 'Part 13 - Cradle Base-1'
+Constraint Name: Lock4
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'SG90 - Micro Servo 9g - Tower Pro.3-1', 'Part 13 - Cradle Base-1'
+Constraint Name: Lock4
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 9 - Final Assembly', 'Part 9 - Final Assembly'
+Constraint Name: GearMate1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 9 - Final Assembly', 'Part 9 - Final Assembly'
+Constraint Name: Lock5
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 9 - Final Assembly', 'Part 9 - Final Assembly'
+Constraint Name: Lock5
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 9 - Final Assembly', 'Part 9 - Final Assembly'
+Constraint Name: Lock5
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 09-2', 'SG90 - Micro Servo 9g - Tower Pro.2-4'
+Constraint Name: Lock6
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 09-2', 'SG90 - Micro Servo 9g - Tower Pro.2-4'
+Constraint Name: Lock6
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 09-2', 'SG90 - Micro Servo 9g - Tower Pro.2-4'
+Constraint Name: Lock6
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Part 01-2', 'Part 02-2'
+Constraint Name: GearMate2
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
